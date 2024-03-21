@@ -3,7 +3,7 @@
 - 🌱 I’m ...java and c++ full stack developer
 - 💞️ I’m looking to collaborate on ...a new project 
 - 📫 How to reach me ...8660202077 is my whatsapp number
-- intrested in contributing open source
+- interested in contributing open source
 - feel free to contact me 
 
 <!---
